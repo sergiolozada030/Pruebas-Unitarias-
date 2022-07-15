@@ -1,0 +1,17 @@
+.contenido-principal{
+    width: 80%;
+    margin: auto;
+    padding-top: 3rem;
+    text-align: center;
+}
+
+#titulo-form{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.contenedor-form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
